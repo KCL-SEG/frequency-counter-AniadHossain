@@ -1,6 +1,7 @@
 """Frequencies function."""
 """ENTER YOUR SOLUTION HERE!"""
 
+#pushing with a different git config
 def frequencies(items):
     frequencies = {}
     for i in items:
